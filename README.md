@@ -1,4 +1,4 @@
-[10:57 am, 8/5/2024] Shatakshi: <h1 align="center">Hi 👋, I'm Cheshta</h1>
+<h1 align="center">Hi 👋, I'm Cheshta</h1>
 <h3 align="center">A passionate Full Stack Developer and have experience in Artificial Intelligence, Machine Learning!</h3>
 
 
